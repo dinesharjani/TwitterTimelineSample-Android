@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/src/main/res" >
+            <file
+                name="ic_launcher"
+                path="/Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/src/main/res/drawable-hdpi/ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/src/main/res/drawable-mdpi/ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/src/main/res/drawable-xhdpi/ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="/Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/src/main/res/drawable-xxhdpi/ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="timeline_activity"
+                path="/Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/src/main/res/layout/timeline_activity.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="timeline_fragment"
+                path="/Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/src/main/res/layout/timeline_fragment.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="timeline_listviewitem"
+                path="/Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/src/main/res/layout/timeline_listviewitem.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="twitterlogin_fragment"
+                path="/Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/src/main/res/layout/twitterlogin_fragment.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                path="/Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/src/main/res/values/colors.xml"
+                qualifiers="" >
+                <color name="white" >#FFFFFF
+                </color>
+            </file>
+            <file
+                path="/Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/src/main/res/values/dimens.xml"
+                qualifiers="" >
+                <dimen name="com_dhsoftware_android_marginSize_normal" >7dp
+                </dimen>
+                <dimen name="fragment_vertical_margin" >16dp
+                </dimen>
+                <dimen name="com_dhsoftware_android_marginSize_big" >15dp
+                </dimen>
+                <dimen name="fragment_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="com_dhsoftware_android_textSize_big" >19sp
+                </dimen>
+                <dimen name="com_dhsoftware_android_textSize_normal" >14sp
+                </dimen>
+                <dimen name="view_padding_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="/Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/src/main/res/values/strings.xml"
+                qualifiers="" >
+                <string name="com_dhsoftware_android_twitterTimelineSample_loading" >Loading...
+                </string>
+                <string name="com_dhsoftware_android_twitterTimelineSample_twitterLoginFragment_error" >Login unsuccessful. Did you properly type in the PIN number?
+                </string>
+                <string name="com_dhsoftware_android_twitterTimelineSample_logout" >Logout
+                </string>
+                <string name="com_dhsoftware_android_twitterTimelineSample_twitterLoginFragment_description" >We need to authenticate your information in order to enable access to your Twitter account. Please tap on the following hyperlink and type in the PIN code below: \n\n%1$s
+                </string>
+                <string name="com_dhsoftware_android_twitterTimelineSample_twitterConsumerSecret" >OdO2KQm9AuM3Z6Bm6nPXMhf2knULfrN04QvkzutIVE
+                </string>
+                <string name="com_dhsoftware_android_twitterTimelineSample_ok" >OK
+                </string>
+                <string name="com_dhsoftware_android_twitterTimelineSample_refresh" >Refresh
+                </string>
+                <string name="com_dhsoftware_android_twitterTimelineSample_app_name" >TwitterTimelineSample
+                </string>
+                <string name="com_dhsoftware_android_twitterTimelineSample_twitterConsumerKey" >9yL8tDgUd7d5mPwct03ZTw
+                </string>
+                <string name="com_dhsoftware_android_twitterTimelineSample_twitterLoginFragment_title" >Twitter Login
+                </string>
+            </file>
+            <file
+                path="/Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/src/main/res/values/styles.xml"
+                qualifiers="" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Black" >
+
+                    <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+                    -->
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="AppBaseTheme" >
+
+                    <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+                </style>
+            </file>
+            <file
+                path="/Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/src/main/res/values-v11/styles.xml"
+                qualifiers="v11" >
+
+                <style
+                    name="AppBaseTheme"
+                    parent="android:Theme.Holo" >
+
+                    <!-- API 11+ theme customizations can go here. -->
+                </style>
+            </file>
+        </source>
+        <source path="/Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/build/res/rs/debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/src/debug/res" />
+    </dataSet>
+
+</merger>

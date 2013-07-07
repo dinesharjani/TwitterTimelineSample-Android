@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/src/main/assets" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/src/debug/assets" />
+    </dataSet>
+
+</merger>
