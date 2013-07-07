@@ -2,7 +2,7 @@
 
 ## Introduction
 
-![Screenshot](https://github.com/the7thgoldrunner/facebooknewsfeedsample-android/raw/master/images/twittertimelinesample-android-holo.png)
+![Screenshot](https://github.com/the7thgoldrunner/twittertimelinesample-android/raw/master/images/twittertimelinesample-android-holo.png)
 
 Following the footsteps of my [Facebook Newsfeed Sample Code] (https://github.com/the7thgoldrunner/FacebookNewsfeedSample-Android) I made this sample using Twitter instead. However, I consider it perhaps a "worse" attempt because a couple of things didn't allow me to really make it as whole and cohesive as I'd want it to: I made use of the [Loader framework for the first time] (http://developer.android.com/guide/components/loaders.html) which renders the ListView Adapter somewhat pointless compared to a more classic design without Loaders. Also, I used [Android Studio] (http://developer.android.com/sdk/installing/studio.html) from the beginning, which means I had to use Gradle, and I could not get it to properly import [Chris Banes' Pull-to-Refresh Project] (https://github.com/chrisbanes/Android-PullToRefresh), so it's in the source code, but it's not being used until I can fix that. Instead, you Refresh the Timeline via Menu/ActionBar.
 
@@ -24,7 +24,7 @@ There are a couple of things you need to go through to get this code working for
 
 ## Other stuff
 
-Keep in mind this code is for sample purposes. Even so, I made use of Fragments and split the code into sub-packages just like I do in production to make it all tidy and it's well documented. As I've mentioned above and specially throughout the source doe, there are things missing or which can be improved. If I haven't done so and you'd like to help, please feel free to do so and send a Pull Request.
+Keep in mind this code is for sample purposes. Even so, I made use of Fragments and split the code into sub-packages just like I do in production to make it all tidy and it's well documented. As I've mentioned above and specially throughout the source doe, there are things missing or which can be improved. If I haven't done so yet and you'd like to help, please feel free to do so and send a Pull Request.
 
 ## Acknowledgements
 
