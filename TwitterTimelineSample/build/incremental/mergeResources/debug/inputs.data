@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1372869802000 735 f70ca452070d18520e20e127482e05b2b6cb1d2f /Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/src/main/res/layout/timeline_fragment.xml
+1373994933000 13496 0a1d7f91cb5ae213b677ee4faef59bbd67a098f2 /Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/src/main/res/drawable-xhdpi/ic_launcher.png
+1373994933000 318 f37b4c43b290eba4a42d9102f14a550c301de5c8 /Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/src/main/res/values-v11/styles.xml
+1373994933000 4652 844b076ae64af9f995d6fea18ba78f9bc34144c6 /Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/src/main/res/drawable-mdpi/ic_launcher.png
+1373217450000 1714 703b4f17c2334f5ce24d4aab62251f2e4c3735c1 /Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/src/main/res/layout/twitterlogin_fragment.xml
+1372847587000 103 f4643badad4afb2bf0ff77297fa5d0fa3bad43fc /Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/src/main/res/values/colors.xml
+1373998214000 1571 ddb4ae1773431596a0f5bae86b2c8d8000ed546e /Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/src/main/res/values/strings.xml
+1373994933000 674 c78f92856947cb5742edaa3b94df76b0823dbbe7 /Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/src/main/res/values/styles.xml
+1372870807000 2758 4087251865ddb9bc363ec9e8f6b6f5fa8d063a79 /Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/src/main/res/layout/timeline_listviewitem.xml
+1373994933000 8891 0eb28af3964128977f09e8c2c58605e05359d230 /Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/src/main/res/drawable-hdpi/ic_launcher.png
+1373996049000 581 155859acb2e0481187fda44edb738ce52999b78e /Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/src/main/res/values/dimens.xml
+1373994933000 25470 4beb923f3c31f156411b90f91f61be4063575b56 /Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/src/main/res/drawable-xxhdpi/ic_launcher.png

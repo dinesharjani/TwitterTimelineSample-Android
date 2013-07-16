@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: /Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/src/main/res/values/colors.xml -->
+    <color name="white">#FFFFFF</color>
+    <!-- From: /Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/src/main/res/values/dimens.xml -->
+    <dimen name="com_dhsoftware_android_marginSize_big">15dp</dimen>
+    <dimen name="com_dhsoftware_android_marginSize_normal">7dp</dimen>
+    <dimen name="com_dhsoftware_android_textSize_big">19sp</dimen>
+    <dimen name="com_dhsoftware_android_textSize_normal">14sp</dimen>
+    <dimen name="fragment_horizontal_margin">16dp</dimen>
+    <dimen name="fragment_vertical_margin">16dp</dimen>
+    <dimen name="view_padding_margin">16dp</dimen>
+    <!-- From: /Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/src/main/res/values/strings.xml -->
+    <string name="com_dhsoftware_android_twitterTimelineSample_app_name">TwitterTimelineSample</string>
+    <string name="com_dhsoftware_android_twitterTimelineSample_loading">Loading...</string>
+    <string name="com_dhsoftware_android_twitterTimelineSample_logout">Logout</string>
+    <string name="com_dhsoftware_android_twitterTimelineSample_ok">OK</string>
+    <string name="com_dhsoftware_android_twitterTimelineSample_refresh">Refresh</string>
+    <string name="com_dhsoftware_android_twitterTimelineSample_twitterConsumerKey">fzm2lnDoHKG3iwO5EVCig</string>
+    <string name="com_dhsoftware_android_twitterTimelineSample_twitterConsumerSecret">OPW17sdmdK48qNsJwr3BxdfWb0DfghdYUqXQbZ5evg</string>
+    <string name="com_dhsoftware_android_twitterTimelineSample_twitterLoginFragment_description">We need to authenticate your information in order to enable access to your Twitter account. Please tap on the following hyperlink and type in the PIN code below: \n\n%1$s</string>
+    <string name="com_dhsoftware_android_twitterTimelineSample_twitterLoginFragment_error">Login unsuccessful. Did you properly type in the PIN number?</string>
+    <string name="com_dhsoftware_android_twitterTimelineSample_twitterLoginFragment_title">Twitter Login</string>
+    <!-- From: /Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/src/main/res/values/styles.xml -->
+    <style name="AppBaseTheme" parent="android:Theme">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+</resources>

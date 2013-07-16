@@ -1,0 +1,12 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1373998251000 7341 3ef732d1dfdd30c5dea5eeb796c90cb15d8125df /Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/build/res/all/debug/drawable-hdpi/ic_launcher.png
+1373998252000 889 f230bd66595585f364a6ab1e24aa82ad07856386 /Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/build/res/all/debug/layout/timeline_fragment.xml
+1373998252000 349 7917cc1feeb735d4f0436869b28f2ecdf79b9bc7 /Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/build/res/all/debug/values-v11/values.xml
+1373998252000 2842 5e7f99161b593995bfd01fda1cddf1f6210f3663 /Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/build/res/all/debug/values/values.xml
+1373998252000 2916 58a38c32bd0894287b75ea8fb4cd4b0185b0bc6f /Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/build/res/all/debug/layout/timeline_listviewitem.xml
+1373998252000 1872 d7b3e658f0cc5b0e0331cb8e899104ed01c86279 /Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/build/res/all/debug/layout/twitterlogin_fragment.xml
+1373998252000 20249 0d2d72a1d50dbc86ca69f8953ebc0505517ddc1a /Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
+1373998252000 10875 217e39aa6a142357bfc4f6f135db45207614ae20 /Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1373998252000 4155 b347489118f407c64c194e95c802cda2f5ebb81a /Users/dineshharjani/Documents/workspace-intellijidea/TwitterTimelineSample/TwitterTimelineSample/build/res/all/debug/drawable-mdpi/ic_launcher.png
