@@ -128,19 +128,10 @@
       <file leaf-file-name="TimelineFragment.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TwitterTimelineSample/src/main/java/com/dhsoftware/android/twittertimelinesample/fragments/TimelineFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="33" column="22" selection-start="1497" selection-end="1497" vertical-scroll-proportion="0.06078665" vertical-offset="510" max-vertical-offset="4199">
+            <state line="36" column="42" selection-start="1565" selection-end="1565" vertical-scroll-proportion="0.1215733" vertical-offset="510" max-vertical-offset="4199">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TwitterTimelineSampleProject.iml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TwitterTimelineSampleProject.iml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="323">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -877,14 +868,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TwitterTimelineSample/src/main/res/layout/timeline_listviewitem.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1088" />
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TwitterTimelineSample/src/main/res/layout/twitterlogin_fragment.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="816" />
@@ -990,9 +973,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/TwitterTimelineSample/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="839">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/TwitterTimelineSample/src/main/java/com/dhsoftware/android/twittertimelinesample/fragments/TimelineFragment.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="22" selection-start="1497" selection-end="1497" vertical-scroll-proportion="0.06078665" vertical-offset="510" max-vertical-offset="4199">
+        <state line="36" column="42" selection-start="1565" selection-end="1565" vertical-scroll-proportion="0.1215733" vertical-offset="510" max-vertical-offset="4199">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

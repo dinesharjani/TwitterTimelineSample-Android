@@ -31,7 +31,7 @@ import twitter4j.Status;
  * <br></br>
  * You'll find it a bit odd that for refreshing I'm not using the same <a href="https://github.com/chrisbanes/Android-PullToRefresh">Pull-to-Refresh library as the last time</a>,
  * the reason being since this is an Android Studio project, I've had to deal with Gradle, and I haven't been able to make it
- * work importing it. 
+ * work importing it.
  * <br></br>
  * <br></br>
  * User: Dinesh Harjani (email: goldrunner18725@gmail.com) (github: the7thgoldrunner) (Twitter: @dinesharjani)
